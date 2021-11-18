@@ -1,0 +1,13 @@
+{
+  "name": "Media.Monks",
+  "short_name": "media.monks",
+  "icons": [
+    {
+      "src": "google-touch-icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#2c2d38",
+  "theme_color": "#dfbbfe",
+  "display": "fullscreen"
+}
